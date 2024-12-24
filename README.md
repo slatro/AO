@@ -187,7 +187,7 @@ Send({ Target = "Sa0iBLPNyJQrwpTTG-tWLQU-1QeUAJA73DdxGGiKoJc", Action = "Balance
 Send({ Target = "Sa0iBLPNyJQrwpTTG-tWLQU-1QeUAJA73DdxGGiKoJc", Action = "Transfer", Recipient = "walletAdresin", Quantity = "Miktar"})
 ```
 
-* Sonraki görevleri daha sonra yazacağım yoruldum ve vaktim kalmadı..
+* Sonraki görevleri daha sonra yazacağım yoruldum ve vaktim kalmadı...
 
 * Ne o Neo? Beğenemedin mi? Sonra yazıcam dedim işte, hadi iyi geceler.
 
